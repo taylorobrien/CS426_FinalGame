@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Temp/Compiled-Custom-Shader_Static.shader">
+    <Files>
+      <File FileName="Assets/Standard Assets/Scripts/FirstPersonController.cs" Line="19" Column="1" />
+      <File FileName="Assets/Standard Assets/Scripts/GhostMovement.cs" Line="70" Column="21" />
+      <File FileName="Assets/Standard Assets/Scripts/HUDScript.cs" Line="7" Column="23" />
+      <File FileName="Assets/Standard Assets/Scripts/CameraMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Scripts/FlickeringLight.cs" Line="41" Column="1" />
+      <File FileName="Assets/Standard Assets/Scripts/ZombieMovement.cs" Line="24" Column="5" />
+      <File FileName="Assets/torchChange.cs" Line="30" Column="41" />
+      <File FileName="Assets/Shader_Static.shader" Line="4" Column="62" />
+      <File FileName="Temp/Compiled-Custom-Shader_Static.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
